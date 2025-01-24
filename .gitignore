@@ -1,0 +1,10 @@
+/Users/ayushbhakat/Desktop/SYNAPSE/ODP/.env
+.dockerignore
+app.py
+docker-compose.yml
+model.py
+tempCodeRunnerFile.py
+test.py
+.env
+__pycache__/model.cpython-313.pyc
+MLX/api.py
